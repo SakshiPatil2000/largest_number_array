@@ -9,6 +9,7 @@ class Palindrome:
             return 'Nums is not palindrome'
      
      
-pal =Palindrome()
+palindrome =Palindrome()
 nums =[1,2,3,2,1]
-print(pal.checkPalindromeList(nums))
+
+print(palindrome.checkPalindromeList(nums))
